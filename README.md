@@ -1,7 +1,7 @@
 # ggsnd
 GameGear Sound board replacement with stereo output.
 
-This tiny board allow to add or replace a broken GameGear sound board damaged by capacitor leak. It has been redesigned to use a TDA2822 smd version and also has been simplified for better build.
+This tiny board allow to add or replace a broken GameGear sound board damaged by capacitor leak. It has been redesigned to use a TDA2822 smd version and also has been simplified for better and easy build.
 
 The original GameGear soundboard has only mono output, because GG has only one speaker, but with this board you can add a second 4 ohm speaker and have stereo output, the same as when we use a headphone.
 
