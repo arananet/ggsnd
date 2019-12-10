@@ -14,8 +14,8 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 
 # Images
 
-<img src="https://github.com/arananet/ggsnd/blob/master/images/top.png?raw=true" width="100">
-<img src="https://github.com/arananet/ggsnd/blob/master/images/bottom.png?raw=true" width="100">
+<img src="https://github.com/arananet/ggsnd/blob/master/images/top.png?raw=true" width="400">
+<img src="https://github.com/arananet/ggsnd/blob/master/images/bottom.png?raw=true" width="400">
 
 # BOM 
 
@@ -37,6 +37,10 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 # Updates
 
 10/12/2019 Initial release.
+
+# Gerber info
+
+Gerbers are available on the gerbers folder. 1.6mm standard pcb is compatible with the design and the GG.
 
 # License
 
