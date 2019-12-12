@@ -37,6 +37,8 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 |  SPK2           | SPK2                   | B2B-PH-K-S(LF)(SN) JST 2 pin         |
 |  CONN1          | CONN1                  | B6B-PH-K-S(LF)(SN) JST 6 pin         |
 
+Note: JST connectors from the audioboard are now obsolete but those proposed can be valid but maybe need to be modified to plug the original connectors.
+
 # Updates
 
 10/12/2019 Initial release.
