@@ -19,20 +19,20 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 
 # BOM 
 
-| Part            | Value                   | Package                        |
-| --------------- | ----------------------- | ------------------------------ |      
-|  C1             | 10uf                   | C0805                           |
-|  C2             | 100UF                  | E2-5                            |
-|  C3             | 100UF                  | E2-5                            |
-|  C4             | 100UF                  | E2-5                            |
-|  C5             | 100UF                  | E2-5                            |
-|  C6             | 100nf                  | C0805                           |
-|  C7             | 100nf                  | C0805                           |
-|  IC1            | TDA2822D013TR          | SOIC127P600X175-8N              |
-|  R1             | 4.7R                   | R0805                           |
-|  R2             | 4.7R                   | R0805                           |
-|  R3             | 10K                    | RK10J12E0A0A (5 pin std pot)    |
-|  AUDIO2         | AUDIO-JACK             | 3.5mm Standard Jack             |
+| Part            | Value                   | Package                             |
+| --------------- | ----------------------- | ----------------------------------- |      
+|  C1             | 10uf                   | C0805                                |
+|  C2             | 100UF                  | E2-5                                 |
+|  C3             | 100UF                  | E2-5                                 |
+|  C4             | 100UF                  | E2-5                                 |
+|  C5             | 100UF                  | E2-5                                 |
+|  C6             | 100nf                  | C0805                                |
+|  C7             | 100nf                  | C0805                                |
+|  IC1            | TDA2822D013TR          | SOIC127P600X175-8N                   |
+|  R1             | 4.7R                   | R0805                                |
+|  R2             | 4.7R                   | R0805                                |
+|  R3             | 10K                    | RK10J12E0A0A (5 pin standard pot)    |
+|  AUDIO2         | AUDIO-JACK             | 3.5mm Standard Jack                  |
 
 # Updates
 
@@ -42,7 +42,7 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 
 Gerbers are available on the gerbers folder.
 
-## Layer information
+# PCB information for manufacturers.
 
 Layers : 2 layers
 
