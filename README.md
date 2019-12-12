@@ -40,7 +40,18 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 
 # Gerber info
 
-Gerbers are available on the gerbers folder. 1.6mm standard pcb is compatible with the design and the GG.
+Gerbers are available on the gerbers folder.
+
+## Layer information
+
+Layers : 2 layers
+Dimensions : 31 x 55 mm
+Blind/Buried Via: No
+Material : Normal FR-4 Board TG140
+Thickness : 1.2 mm
+Surface Finish : HASL lead free
+Silkscreen : Any color
+
 
 # License
 
