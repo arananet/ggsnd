@@ -33,6 +33,9 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 |  R2             | 4.7R                   | R0805                                |
 |  R3             | 10K                    | RK10J12E0A0A (5 pin standard pot)    |
 |  AUDIO2         | AUDIO-JACK             | 3.5mm Standard Jack                  |
+|  SPK1           | SPK1                   | B2B-PH-K-S(LF)(SN) JST 2 pin         |
+|  SPK2           | SPK2                   | B2B-PH-K-S(LF)(SN) JST 2 pin         |
+|  CONN1          | CONN1                  | B6B-PH-K-S(LF)(SN) JST 6 pin         |
 
 # Updates
 
