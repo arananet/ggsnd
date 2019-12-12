@@ -22,10 +22,10 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 | Part            | Value                   | Package                             |
 | --------------- | ----------------------- | ----------------------------------- |      
 |  C1             | 10uf                   | C0805                                |
-|  C2             | 100UF                  | E2-5                                 |
-|  C3             | 100UF                  | E2-5                                 |
-|  C4             | 100UF                  | E2-5                                 |
-|  C5             | 100UF                  | E2-5                                 |
+|  C2             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
+|  C3             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                |
+|  C4             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
+|  C5             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C6             | 100nf                  | C0805                                |
 |  C7             | 100nf                  | C0805                                |
 |  IC1            | TDA2822D013TR          | SOIC127P600X175-8N                   |
