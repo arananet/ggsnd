@@ -45,11 +45,17 @@ Gerbers are available on the gerbers folder.
 ## Layer information
 
 Layers : 2 layers
+
 Dimensions : 31 x 55 mm
+
 Blind/Buried Via: No
+
 Material : Normal FR-4 Board TG140
+
 Thickness : 1.2 mm
+
 Surface Finish : HASL lead free
+
 Silkscreen : Any color
 
 
