@@ -28,7 +28,7 @@ If you like the project, buy me a beer or at least say thanks :) info@arananet.n
 |  C5             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C6             | 100nf                  | C0805                                |
 |  C7             | 100nf                  | C0805                                |
-|  IC1            | TDA2822D               | SOIC8                  |
+|  IC1            | TDA2822D               | SOIC-8                  |
 |  R1             | 4.7R                   | R0805                                |
 |  R2             | 4.7R                   | R0805                                |
 |  R3             | 10K                    | RK10J12E0A0A (5 pin standard pot)    |
