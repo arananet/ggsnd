@@ -23,9 +23,9 @@ If you like the project or want to support it, you can buy me a beer or a KO-FI 
 | Part            | Value                   | Package                             |
 | --------------- | ----------------------- | ----------------------------------- |      
 |  C1             | 10uf                   | C0805                                |
-|  C2             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
-|  C3             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                |
-|  C4             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
+|  C2             | 100UF - 16v                | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
+|  C3             | 100UF - 16v                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                |
+|  C4             | 100UF - 16v                 | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C5             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C6             | 100nf                  | C0805                                |
 |  C7             | 100nf                  | C0805                                |
