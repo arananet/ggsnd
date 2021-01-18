@@ -1,4 +1,4 @@
-# ggsnd
+# GGSND
 GameGear Sound board replacement with stereo output.
 
 This tiny board allow to add or replace a broken GameGear sound board damaged by capacitor leak. It has been redesigned to use a TDA2822 smd version and also has been simplified for better and easy build.
@@ -26,7 +26,7 @@ If you like the project or want to support it, you can buy me a beer or a KO-FI 
 |  C2             | 100UF - 16v                | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C3             | 100UF - 16v                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                |
 |  C4             | 100UF - 16v                 | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
-|  C5             | 100UF                  | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
+|  C5             | 100UF - 16v                 | ELECTROLYTIC CAPACITOR 2.54 mm, diameter 6 mm                                 |
 |  C6             | 100nf                  | C0805                                |
 |  C7             | 100nf                  | C0805                                |
 |  IC1            | TDA2822D               | SOIC-8                  |
