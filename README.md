@@ -7,7 +7,7 @@ The original GameGear soundboard has only mono output, because GG has only one s
 
 # Note
 
-THIS DESIGN OR THE RESULTING PCB IS PROHIBITED TO SALE ON EBAY.
+## THIS DESIGN OR THE RESULTING PCB IS PROHIBITED TO SALE ON EBAY.
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
